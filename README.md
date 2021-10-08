@@ -24,7 +24,7 @@
 
 <h3 align="left">Recent Projects:</h3>
 
-<p align="left">Blog with MERN Stack:</h3>
+<p align="left">Blog with MERN Stack:</p>
 [![Arc Dev Site](giphy.gif)](https://determined-visvesvaraya-4f6a96.netlify.app/)
 
 
