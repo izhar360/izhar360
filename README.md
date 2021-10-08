@@ -23,7 +23,8 @@
 
 
 <h3 align="left">Recent Projects:</h3>
-[![Arc Dev Site]("https://media.giphy.com/media/P8Jr920xgzmfqKXAUu/giphy.gif")](https://arcsoftwaredevelopment.com/)
+
+[![Arc Dev Site](giphy.gif)](https://arcsoftwaredevelopment.com/)
 
 
 <p><img align="left" width="400" height="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=izhar360&show_icons=true&locale=en&layout=compact" alt="izhar360" /></p>
