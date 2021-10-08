@@ -21,7 +21,7 @@
 
 
 
-<img src="https://media.giphy.com/media/P8Jr920xgzmfqKXAUu/giphy.gif" width="300" height="250" />
+<img src="https://media.giphy.com/media/P8Jr920xgzmfqKXAUu/giphy.gif" width="400" height="250" />
 <p><img align="left" width="400" height="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=izhar360&show_icons=true&locale=en&layout=compact" alt="izhar360" /></p>
 
 <p>&nbsp;<img align="center" width="400" height="320" src="https://github-readme-stats.vercel.app/api?username=izhar360&show_icons=true&locale=en" alt="izhar360" /></p>
