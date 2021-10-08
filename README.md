@@ -26,7 +26,7 @@
 
 <p align="left">Blog with MERN Stack:</p>
 
-[![Blog with MERN stack](giphy.gif)]('https://determined-visvesvaraya-4f6a96.netlify.app/')
+[![Blog with MERN stack](giphy.gif)](https://determined-visvesvaraya-4f6a96.netlify.app/)
 
 
 <p><img align="left" width="400" height="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=izhar360&show_icons=true&locale=en&layout=compact" alt="izhar360" /></p>
