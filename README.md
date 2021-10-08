@@ -22,7 +22,7 @@
 
 
 
-<div style="margin-top: 30px;">
+<div style="margin-top: 100px;">
 <img src="https://media.giphy.com/media/P8Jr920xgzmfqKXAUu/giphy.gif" />
 
 </div>
