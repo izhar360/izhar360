@@ -32,7 +32,7 @@
 
 <p align="left">Cryptoverse Project With React JS | Ant Design:</p>
 
-[![Cryptoverse](crypto.gif)](https://github.com/izhar360/cryptoverse)
+[![Cryptoverse](crypto.gif)](https://cryptoverse-jsm.netlify.app/)
 
 
 <p align="left">Blog with MERN Stack:</p>
