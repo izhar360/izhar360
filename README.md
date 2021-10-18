@@ -29,12 +29,12 @@
 [![Arc Dev Site](https://media.giphy.com/media/D4DEOFLmdk0RDIC5zQ/giphy.gif)](https://arcsoftwaredevelopment.com/)
 
 <p align="left">Cryptoverse Project With React JS | Ant Design:</p>
-<div style="width:100%;height:0;padding-bottom:49%;position:relative;"><iframe src="https://giphy.com/embed/yYYvHVEccC9JeIiCGV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/web-developer-make-website-react-js-yYYvHVEccC9JeIiCGV">via GIPHY</a></p>
+
+[![Cryptoverse](crypto.gif)](https://determined-visvesvaraya-4f6a96.netlify.app/)
 
 <p align="left">Blog with MERN Stack:</p>
 
-[![Blog with MERN stack](giphy.gif)](https://determined-visvesvaraya-4f6a96.netlify.app/)
-
+[![Blog with MERN stack](giphy.gif)](https://github.com/izhar360/cryptoverse)
 
 
 <p><img align="left" width="400" height="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=izhar360&show_icons=true&locale=en&layout=compact" alt="izhar360" /></p>
