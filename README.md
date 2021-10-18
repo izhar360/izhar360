@@ -24,13 +24,16 @@
 
 <h3 align="left">Recent Projects:</h3>
 
+
 <p align="left">Arc Development Project With React JS | Material UI:</p>
 
 [![Arc Dev Site](https://media.giphy.com/media/D4DEOFLmdk0RDIC5zQ/giphy.gif)](https://arcsoftwaredevelopment.com/)
 
+
 <p align="left">Cryptoverse Project With React JS | Ant Design:</p>
 
 [![Cryptoverse](crypto.gif)](https://determined-visvesvaraya-4f6a96.netlify.app/)
+
 
 <p align="left">Blog with MERN Stack:</p>
 
