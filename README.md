@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on [MERN Stack Project](https://github.com/izhar360/FinalYearProjects)
 
+- 👷 I'm available for freelance or full time JOb.
+
 - 📫 How to reach me **Muhammadizhar360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
