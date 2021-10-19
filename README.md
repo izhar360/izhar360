@@ -37,7 +37,7 @@
 [![Cryptoverse](crypto.gif)](https://cryptoverse-jsm.netlify.app/)
 
 
-<p align="left">Blog with MERN Stack:</p>
+<p align="left">Blog with MERN Stack | Next JS | Material UI:</p>
 
 [![Blog with MERN stack](giphy.gif)](https://determined-visvesvaraya-4f6a96.netlify.app/)
 
