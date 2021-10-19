@@ -9,6 +9,8 @@
 
 - 👷 I'm available for freelance or full time Job.
 
+- 📃 Check out My [CV](CV_2021-10-19_Muhammad_Izhar.pdf)
+
 - 📫 How to reach me **Muhammadizhar360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
