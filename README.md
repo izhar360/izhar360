@@ -34,6 +34,10 @@
 [![Arc Dev Site](https://media.giphy.com/media/D4DEOFLmdk0RDIC5zQ/giphy.gif)](https://arcsoftwaredevelopment.com/)
 
 
+<p align="left">MacOS finder with React JS | SASS:</p>
+
+[![MacOS Finder](https://media.giphy.com/media/Gqxuyj9oB12X4mUH8k/giphy.gif)](https://arcsoftwaredevelopment.com/)
+
 <p align="left">Cryptoverse Project With React JS | Ant Design:</p>
 
 [![Cryptoverse](crypto.gif)](https://cryptoverse-jsm.netlify.app/)
