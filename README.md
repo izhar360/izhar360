@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [MERN Stack Project](https://github.com/izhar360/FinalYearProjects)
 
-- 👷 I'm available for freelance or full time Job.
+- 👷 I'm available for freelance, contract based and full time Job.
 
 - 📃 Check out My [CV](CV_2021-10-19_Muhammad_Izhar.pdf)
 
