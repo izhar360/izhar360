@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Next JS Blog](https://github.com/izhar360/BadBingFrontEnd)
 
-- 👯 I’m looking to collaborate on [MERN Stack Project](https://github.com/izhar360/FinalYearProjects)
+- 👯 I’m looking for a collaborater on my Final Year Project for University.
 
 - 👷 I'm available for freelance, contract based and full time Job.
 
@@ -27,6 +27,10 @@
 
 
 <h3 align="left">Recent Projects:</h3>
+
+<p align="left">Social Media webapp With React JS | Tailwind CSS | Sanity.io:</p>
+
+[![BadaBing](sxsx.png)](https://github.com/izhar360/socialMediaWebApp)
 
 
 <p align="left">Arc Development Project With React JS | Material UI:</p>
