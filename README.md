@@ -30,7 +30,7 @@
 
 <p align="left">Social Media webapp With React JS | Tailwind CSS | Sanity.io:</p>
 
-[![BadaBing](sxsx.png)](https://github.com/izhar360/socialMediaWebApp)
+[![BadaBing](sxsx.png)](https://mystifying-montalcini-350318.netlify.app/)
 
 
 <p align="left">Arc Development Project With React JS | Material UI:</p>
