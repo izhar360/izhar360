@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izhar360&label=Profile%20views&color=0e75b6&style=flat" alt="izhar360" /> </p>
 
-- 🔭 I’m currently working on [Next JS Blog](https://github.com/izhar360/BadBingFrontEnd)
-
-- 👯 I’m looking for a collaborater on my Final Year Project for University.
+- 👯 I’m looking for a collaborater for my Final Year Project for University.
 
 - 👷 I'm available for freelance, contract based and full time Job.
 
