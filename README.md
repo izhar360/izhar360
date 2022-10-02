@@ -31,16 +31,6 @@
 [![Arc Dev Site](https://media.giphy.com/media/D4DEOFLmdk0RDIC5zQ/giphy.gif)](https://arcsoftwaredevelopment.com/)
 
 
-<p align="left">Neo Digital Clock With React JS | TypeScript:</p>
-
-[![Neo Digital Clock](demo.gif)](https://upbeat-payne-3e2f73.netlify.app/)
-
-
-<p align="left">MacOS finder with React JS | SASS:</p>
-
-https://user-images.githubusercontent.com/79567009/138412822-6dbcb9bf-9eae-4f35-82eb-859fda983286.mp4
-
-
 <p align="left">Cryptoverse Project With React JS | Ant Design:</p>
 
 [![Cryptoverse](crypto.gif)](https://cryptoverse-jsm.netlify.app/)
