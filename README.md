@@ -21,6 +21,12 @@
 
 <h3 align="left">Recent Projects:</h3>
 
+<p align="left">Contentful Headless Blog:</p>
+### [Live Site](https://blog-contentful-wjhg.vercel.app/)
+
+![Contentful Headless Blog](https://github.com/izhar360/blog-contentful/assets/79567009/6bc15e36-02fa-4335-91cb-8da2b625ece6)
+
+
 <p align="left">Social Media webapp With React JS | Tailwind CSS | Sanity.io:</p>
 
 [![BadaBing](sxsx.png)](https://mystifying-montalcini-350318.netlify.app/)
