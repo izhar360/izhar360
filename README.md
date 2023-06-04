@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izhar360&label=Profile%20views&color=0e75b6&style=flat" alt="izhar360" /> </p>
 
-- 👯 I’m actively looking for a good front-end Web developer job.
+- 👯 I’m actively looking for a good Front-End Web Developer job.
 
 - 👷 I'm available for freelance, contract based and full time Job.
 
