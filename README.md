@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Izhar</h1>
-<h3 align="center">A Passionate React JS, Next JS and Sanity CMS Developer</h3>
+<h3 align="center">A Passionate React JS, Next JS and Contentful CMS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izhar360&label=Profile%20views&color=0e75b6&style=flat" alt="izhar360" /> </p>
 
