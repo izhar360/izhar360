@@ -28,7 +28,7 @@
 
 ![Job Board cover image](job-baord-contentful.png)
 
-## Contentful Headless Blog
+##Blog with Contentful CMS
 
 ### [Live Site](https://blog-contentful-wjhg.vercel.app/)
 
