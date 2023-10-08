@@ -5,7 +5,7 @@
 
 - 👯 I’m actively looking for a good Front-End Web Developer job.
 
-- 👷 I'm available for freelance, contract based and full time Job.
+- 👷 I'm available for freelance, contract-based, and full-time Jobs.
 
 - 📃 Check out My [CV](resume_izhar.pdf)
 
@@ -28,29 +28,29 @@
 
 ![Job Board cover image](job-baord-contentful.png)
 
-##Blog with Contentful CMS
+## Blog with Contentful CMS
 
 ### [Live Site](https://blog-contentful-wjhg.vercel.app/)
 
 ![Contentful Headless Blog](https://github.com/izhar360/blog-contentful/assets/79567009/6bc15e36-02fa-4335-91cb-8da2b625ece6)
 
 
-<p align="left">Social Media webapp With React JS | Tailwind CSS | Sanity.io:</p>
+## <p align="left">Social Media webapp With React JS | Tailwind CSS | Sanity.io:</p>
 
 [![BadaBing](sxsx.png)](https://mystifying-montalcini-350318.netlify.app/)
 
 
-<p align="left">Arc Development Project With React JS | Material UI:</p>
+## <p align="left">Arc Development Project With React JS | Material UI:</p>
 
 [![Arc Dev Site](https://media.giphy.com/media/D4DEOFLmdk0RDIC5zQ/giphy.gif)](https://arcsoftwaredevelopment.com/)
 
 
-<p align="left">Cryptoverse Project With React JS | Ant Design:</p>
+## <p align="left">Cryptoverse Project With React JS | Ant Design:</p>
 
 [![Cryptoverse](crypto.gif)](https://cryptoverse-jsm.netlify.app/)
 
 
-<p align="left">Blog with MERN Stack | Next JS | Material UI:</p>
+## <p align="left">Blog with MERN Stack | Next JS | Material UI:</p>
 
 [![Blog with MERN stack](giphy.gif)](https://determined-visvesvaraya-4f6a96.netlify.app/)
 
