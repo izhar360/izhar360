@@ -21,6 +21,13 @@
 
 <h3 align="left">Recent Projects:</h3>
 
+
+## Job-board with Next JS & Contentful CMS
+
+### [Live Site](https://job-board-contentful.vercel.app/)
+
+![Job Board cover image](job-baord-contentful.png)
+
 ## Contentful Headless Blog
 
 ### [Live Site](https://blog-contentful-wjhg.vercel.app/)
