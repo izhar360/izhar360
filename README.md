@@ -7,7 +7,7 @@
 
 - 📃 Check out My [CV](izhar_resume2023.pdf)
 
-- 📫 How to reach me **Muhammadizhar360@gmail.com**
+- 📫 How to reach me **muhammadizhar360@gmail.com**
 
 
 ### Skills
