@@ -5,7 +5,7 @@
 
 - 👷 I'm available for freelance, contract-based, and full-time Jobs.
 
-- 📃 Check out My [CV](resume_izhar.pdf)
+- 📃 Check out My [CV](izhar_resume2023.pdf)
 
 - 📫 How to reach me **Muhammadizhar360@gmail.com**
 
