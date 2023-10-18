@@ -1,15 +1,25 @@
 <h1 align="center">Hi 👋, I'm Izhar</h1>
-<h3 align="center">A Passionate React JS, Next JS and Contentful CMS Developer</h3>
+<h3 align="center">A Passionate React JS, Next JS and Headless CMS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izhar360&label=Profile%20views&color=0e75b6&style=flat" alt="izhar360" /> </p>
-
-- 👯 I’m actively looking for a good Front-End Web Developer job.
 
 - 👷 I'm available for freelance, contract-based, and full-time Jobs.
 
 - 📃 Check out My [CV](resume_izhar.pdf)
 
 - 📫 How to reach me **Muhammadizhar360@gmail.com**
+
+
+### Skills
+- 🌐 Web Development: HTML, CSS, JavaScript, React JS, Next JS
+- 📇 Headless CMS: Contentful CMS, Sanity CMS
+- 🛢️ Databases: MongoDB, PostgreSQL
+- 🚀 Frameworks: Tailwind-CSS, Material-UI
+- 🧩 Testing: Jest, Enzyme
+- 🌐 Web APIs: REST, GraphQL
+- ☁️ Cloud Services: Netlify, Heroku, Vercel
+- 🎨 UI/UX Design: Figma
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
